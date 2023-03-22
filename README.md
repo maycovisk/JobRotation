@@ -68,7 +68,7 @@ c) Explique como chegou no resultado.
 
 Podemos igualar as equações horárias do carro e do caminhão para determinar o ponto de cruzamento. Resolvendo a equação, descobrimos que o ponto de cruzamento está a uma distância de 60,9 km de Ribeirão Preto. Portanto, o carro e o caminhão estarão igualmente distantes da cidade quando se cruzarem.
 
-Como a questão é quem estará mais próxima a cidade de Ribeirão Preto, e ambos se cruzam, ambos estão a mesma distância de Ribeirão Preto, não foi informado no escopo de quem estará mais próximo a chegar em Ribeirão Preto.
+Como a questão é quem estará mais próxima a cidade de Ribeirão Preto, e ambos se cruzam, ambos estão a mesma distância de Ribeirão Preto, não foi informado no escopo de quem estará mais próximo à chegar em Ribeirão Preto.
 </h2>
  
 
