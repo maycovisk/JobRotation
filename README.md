@@ -17,7 +17,7 @@ imprimir(SOMA);
 
 
 Ao final do processamento, qual será o valor da variável SOMA?
-<br>*O VALOR DE SOMA SERÁ 91*
+### <br>*O VALOR DE SOMA SERÁ 91*
 
 
 ##
@@ -29,26 +29,27 @@ IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
+https://github.com/maycovisk/JobRotation/tree/main/Exercicio2CS/Exercicio2
 
-
+##
 3) Descubra a lógica e complete o próximo elemento:
 
 
 
-a) 1, 3, 5, 7, ___
+a) 1, 3, 5, 7, ___ *9*
 
-b) 2, 4, 8, 16, 32, 64, ____
+b) 2, 4, 8, 16, 32, 64, ____ *128*
 
-c) 0, 1, 4, 9, 16, 25, 36, ____
+c) 0, 1, 4, 9, 16, 25, 36, ____ *49*
 
-d) 4, 16, 36, 64, ____
+d) 4, 16, 36, 64, ____ *100*
 
-e) 1, 1, 2, 3, 5, 8, ____
+e) 1, 1, 2, 3, 5, 8, ____ *13*
 
-f) 2,10, 12, 16, 17, 18, 19, ____
+f) 2, 10, 12, 16, 17, 18, 19, ____ *200*
 
 
-
+##
 4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
 
 
@@ -62,7 +63,7 @@ b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mai
 c) Explique como chegou no resultado.
 
  
-
+##
 5) Escreva um programa que inverta os caracteres de um string.
 
 
